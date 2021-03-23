@@ -2,9 +2,6 @@
 99003508  
 LTTS Intern
 
-Tech Specialist:  
-Patrick Andrews M
-
 ## Technologies Learned
 
 1. SDLC
