@@ -2,13 +2,13 @@
 99003508  
 LTTS Intern
 
-## Technologies Learned
+## Technologies Learned:
 
 1. SDLC **
 2. C# (Programming) ***
-3. TSQL (DataBase) ***
+3. TSQL (DataBase) ****
 
-## Frameworks
+## Frameworks:
 
 1. .NET Framework ***
 2. ADO.NET Framework ****
@@ -18,15 +18,15 @@ LTTS Intern
 6. MVC Framework ***
 7. Layered Architecture(DB first Approach) ***
 
-## Tools
+## Tools:
 
 1. SSMS ***
-2. SQL ***
+2. SQL ****
 3. Visual Studio 2019 ****
 4. PostMan ***
 5. LINQPad **
 
-## Pplatform
+## Platform:
 
 1. Azure DevOps ****
 2. Github ***
@@ -60,3 +60,4 @@ LTTS Intern
 3.  [Embadded Lab Management System API](https://dev.azure.com/rishabhsoni0145/99003808_Emb_Lab_Mgmt)
 4.  [Embadded Lab Management System WebApp](https://dev.azure.com/rishabhsoni0145/99003508_Embd_Lab_Mgnt_MVC)
 
+------------------------ [*] symbolize the grading out of 5.------------------------
