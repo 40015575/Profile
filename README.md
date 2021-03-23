@@ -4,32 +4,32 @@ LTTS Intern
 
 ## Technologies Learned
 
-1. SDLC 
-2. C# (Programming)
-3. TSQL (DataBase)
+1. SDLC **
+2. C# (Programming) ***
+3. TSQL (DataBase) ***
 
 ## Frameworks
 
-1. .NET Framework
-2. ADO.NET Framework
-3. LinQ
-4. Entity Framework
-5. Web API Framework
-6. MVC Framework
-7. Layered Architecture(DB first Approach)
+1. .NET Framework ***
+2. ADO.NET Framework ****
+3. LinQ *
+4. Entity Framework *****
+5. Web API Framework ****
+6. MVC Framework ***
+7. Layered Architecture(DB first Approach) ***
 
 ## Tools
 
-1. SSMS
-2. SQL
-3. Visual Studio 2019
-4. PostMan
-5. LINQPad
+1. SSMS ***
+2. SQL ***
+3. Visual Studio 2019 ****
+4. PostMan ***
+5. LINQPad **
 
 ## Pplatform
 
-1. Azure DevOps
-2. Github
+1. Azure DevOps ****
+2. Github ***
 
 # Badges
 
