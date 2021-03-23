@@ -4,7 +4,7 @@ LTTS Intern
 
 ## Technologies Learned:
 
-1. SDLC **
+1. SDLC ***
 2. C# (Programming) ***
 3. TSQL (DataBase) ****
 
