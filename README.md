@@ -4,32 +4,32 @@ LTTS Intern
 
 ## Technologies Learned:
 
-1. SDLC ***
-2. C# (Programming) ***
-3. TSQL (DataBase) ****
+1. SDLC 
+2. C# (Programming) 
+3. TSQL (DataBase) 
 
 ## Frameworks:
 
-1. .NET Framework ***
-2. ADO.NET Framework ****
-3. LinQ *
-4. Entity Framework *****
-5. Web API Framework ****
-6. MVC Framework ***
-7. Layered Architecture(DB first Approach) ***
+1. .NET Framework
+2. ADO.NET Framework 
+3. LinQ 
+4. Entity Framework 
+5. Web API Framework 
+6. MVC Framework 
+7. Layered Architecture(DB first Approach) 
 
 ## Tools:
 
-1. SSMS ***
-2. SQL ****
-3. Visual Studio 2019 ****
-4. PostMan ***
-5. LINQPad **
+1. SSMS 
+2. SQL 
+3. Visual Studio 2019 
+4. PostMan 
+5. LINQPad
 
 ## Platform:
 
-1. Azure DevOps ****
-2. Github ***
+1. Azure DevOps 
+2. Github 
 
 # Badges
 
@@ -59,5 +59,3 @@ LTTS Intern
 2.  [DemoKart WebAPP](https://dev.azure.com/rishabhsoni0145/99003508_DemoKart_WebApp)
 3.  [Embadded Lab Management System API](https://dev.azure.com/rishabhsoni0145/99003808_Emb_Lab_Mgmt)
 4.  [Embadded Lab Management System WebApp](https://dev.azure.com/rishabhsoni0145/99003508_Embd_Lab_Mgnt_MVC)
-
------------------------- [*] symbolize the grading out of 5.------------------------
