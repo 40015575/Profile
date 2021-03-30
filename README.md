@@ -59,3 +59,4 @@ LTTS Intern
 2.  [DemoKart WebAPP](https://dev.azure.com/rishabhsoni0145/99003508_DemoKart_WebApp)
 3.  [Embadded Lab Management System API](https://dev.azure.com/rishabhsoni0145/99003808_Emb_Lab_Mgmt)
 4.  [Embadded Lab Management System WebApp](https://dev.azure.com/rishabhsoni0145/99003508_Embd_Lab_Mgnt_MVC)
+5.  [Cource management System](https://dev.azure.com/rishabhsoni0145/G2_Course_Management_System)
