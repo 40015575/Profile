@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# Rishabh Soni 
+99003508  
+LTTS Intern
 
-You can use the [editor on GitHub](https://github.com/99003508/Profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Technologies Learned:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. SDLC 
+2. C# (Programming) 
+3. TSQL (DataBase) 
 
-### Markdown
+## Frameworks:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. .NET Framework
+2. ADO.NET Framework 
+3. LinQ 
+4. Entity Framework 
+5. Web API Framework 
+6. MVC Framework 
+7. Layered Architecture(DB first Approach) 
 
-```markdown
-Syntax highlighted code block
+## Tools:
 
-# Header 1
-## Header 2
-### Header 3
+1. SSMS 
+2. SQL 
+3. Visual Studio 2019 
+4. PostMan 
+5. LINQPad
 
-- Bulleted
-- List
+## Platform:
 
-1. Numbered
-2. List
+1. Azure DevOps 
+2. Github 
 
-**Bold** and _Italic_ and `Code` text
+# Badges
 
-[Link](url) and ![Image](src)
-```
+## Hackerrank Badges
+![Capture](https://user-images.githubusercontent.com/78849691/111938939-0f194d80-8af1-11eb-98aa-1c6867392135.JPG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Microsoft Badges 
+[Achievements](https://docs.microsoft.com/en-us/users/rishabhsoni-1968/achievements)
 
-### Jekyll Themes
+![Badges_and_Trophies](https://user-images.githubusercontent.com/78849691/111939361-15f49000-8af2-11eb-913a-7bbb5ff89d38.JPG)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/99003508/Profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Certification
 
-### Support or Contact
+[Hackerrank Caertificate](https://www.hackerrank.com/certificates/065874f1cb17)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![hackerRankC#](https://user-images.githubusercontent.com/78849691/111939787-2eb17580-8af3-11eb-9dcf-41404ed81c49.png)
+
+## Links
+
+[Azure Repositories](https://dev.azure.com/rishabhsoni0145)
+
+[Github Repositories](https://github.com/99003508)
+
+## Projects:
+
+1.  [DemoKart Console APP](https://dev.azure.com/rishabhsoni0145/99003508_DemoKart_App)
+2.  [DemoKart WebAPP](https://dev.azure.com/rishabhsoni0145/99003508_DemoKart_WebApp)
+3.  [Embadded Lab Management System API](https://dev.azure.com/rishabhsoni0145/99003808_Emb_Lab_Mgmt)
+4.  [Embadded Lab Management System WebApp](https://dev.azure.com/rishabhsoni0145/99003508_Embd_Lab_Mgnt_MVC)
+5.  [Cource management System](https://dev.azure.com/rishabhsoni0145/G2_Course_Management_System)
