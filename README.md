@@ -1,3 +1,4 @@
+![SQL_intermediate_hackerrank_certificate](https://user-images.githubusercontent.com/78849691/114190411-2f476a00-9943-11eb-9b10-492db5729cad.png)
 # Rishabh Soni 
 99003508  
 LTTS Intern
@@ -46,6 +47,8 @@ LTTS Intern
 [Hackerrank Caertificate](https://www.hackerrank.com/certificates/065874f1cb17)
 
 ![hackerRankC#](https://user-images.githubusercontent.com/78849691/111939787-2eb17580-8af3-11eb-9dcf-41404ed81c49.png)
+
+![SQL_intermediate_hackerrank_certificate](https://user-images.githubusercontent.com/78849691/114190553-52721980-9943-11eb-9d3d-2275bc9ca589.png)
 
 ## Links
 
