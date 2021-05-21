@@ -1,4 +1,4 @@
-![SQL_intermediate_hackerrank_certificate](https://user-images.githubusercontent.com/78849691/114190411-2f476a00-9943-11eb-9b10-492db5729cad.png)
+
 # Rishabh Soni 
 99003508  
 LTTS Intern
