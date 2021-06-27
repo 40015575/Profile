@@ -1,7 +1,7 @@
 
 # Rishabh Soni 
-99003508  
-LTTS Intern
+40015575
+Associate Engineer 
 
 ## Technologies Learned:
 
