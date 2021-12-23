@@ -5,9 +5,15 @@ Associate Engineer
 
 ## Technologies Learned:
 
-1. SDLC 
-2. C# (Programming) 
-3. TSQL (DataBase) 
+  1.SDLC
+  2. C# (Programming) 
+  3. TSQL (DataBase) 
+  4. LINQ 
+  5. Windows Application, Console Application, WPF,web App, windows form
+  6. Rest API
+  7. Xamarin (Android, IOS)
+  8. React(Front-end)
+  9. Microservices
 
 ## Frameworks:
 
@@ -18,6 +24,7 @@ Associate Engineer
 5. Web API Framework 
 6. MVC Framework 
 7. Layered Architecture(DB first Approach) 
+8. MVVM
 
 ## Tools:
 
@@ -26,11 +33,13 @@ Associate Engineer
 3. Visual Studio 2019 
 4. PostMan 
 5. LINQPad
+6. SourceTree
 
 ## Platform:
 
 1. Azure DevOps 
 2. Github 
+3. BitBucket
 
 # Badges
 
