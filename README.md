@@ -5,14 +5,14 @@ Associate Engineer
 
 ## Technologies Learned:
 
-  1.SDLC
-  2. C# (Programming) 
-  3. TSQL (DataBase) 
-  4. LINQ 
-  5. Windows Application, Console Application, WPF,web App, windows form
+  1. SDLC
+  2. C# (Back-end)
+  3. SQL (Database)
+  4. LINQ
+  5. Windows Apps, Console App, WPF, Web App, Windows Forms,...
   6. Rest API
   7. Xamarin (Android, IOS)
-  8. React(Front-end)
+  8. React (Front-end)
   9. Microservices
 
 ## Frameworks:
